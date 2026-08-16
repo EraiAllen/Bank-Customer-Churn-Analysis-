@@ -112,7 +112,7 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Bank Customer Churn Dashboard]()
+![Bank Customer Churn Dashboard](https://github.com/EraiAllen/Bank-Customer-Churn-Analysis-/blob/main/Screenshot%202026-08-16%20214408.png)
 
 ## 📌 Conclusion
 
