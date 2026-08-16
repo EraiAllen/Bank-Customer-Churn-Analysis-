@@ -3,7 +3,7 @@ import numpy as np
 
 
 
-df=pd.read_csv(r"C:\Users\ERAI ALLEN\Downloads\Churn_Modelling.csv")
+df=pd.read_csv(r"data/Churn_Modelling.csv")
 
 print("=" * 50)
 print("BANK CUSTOMER CHURN DATASET")
