@@ -112,7 +112,7 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 
-The Power BI dashboard provides an interactive overview of customer churn, allowing users to explore churn patterns across different customer characteristics.
+https://github.com/EraiAllen/Bank-Customer-Churn-Analysis-/blob/main/Screenshot%202026-08-16%20214408.png
 
 ## 📌 Conclusion
 
